@@ -1,27 +1,30 @@
-
 # Project Name: Business Design Landing Page
 
 ## Project Description
 
-> A  Business Design Landing Page UI developed using just HTML and CSS.
+> A Business Design Landing Page UI developed using just HTML and CSS.
 > Responsive design
 > Beautiful UI
 
 ## Technologies Used
- - HTML 
- - CSS with media queries
+
+- HTML
+- CSS with media queries
 
 ## My Learning
+
 - Learned the importance of using image having right dimensions
 - Realise the power of flex wrap property
 - learned to use Media Query
 
 <br>
 
-#### It took around 7 hr to build 
- - livelink()
+#### It took around 7 hr to build
 
-# 
+- #[Live Link](https://business-design-landingpage-12.netlify.app/)
+
+#
+
 ![Screenshots](/assets/thumbnail.PNG)
 ![Screenshots](/assets/thumbnail2.PNG)
 ![Screenshots](/assets/thumbnail3.PNG)
